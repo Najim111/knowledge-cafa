@@ -6,7 +6,7 @@
       "author": "John Doe",
       "cover": "https://brands.vn/wp-content/uploads/2020/12/web-developer.jpg",
       "post_data": "2023-09-18",
-      "reading_time": "10 mins",
+      "reading_time": 10,
       "hashtags": ["space", 
       "exploration", 
       "science"]
@@ -18,7 +18,7 @@
       "author": "Alice Johnson",
       "cover": "https://apkcatch.com/wp-content/uploads/2020/01/Clipboard03-1024x700.jpg",
       "post_data": "2023-09-20",
-      "reading_time": "6 mins",
+      "reading_time": 6 ,
       "hashtags": ["nutrition", "health", "food"]
     },
     {
@@ -28,7 +28,7 @@
       "author": "David Brown",
       "cover": "https://www.maxdev.com/wp-content/uploads/2019/03/shutterstock_209027086-1160x620.jpg",
       "post_data": "2023-09-22",
-      "reading_time": "12 mins",
+      "reading_time": 5,
       "hashtags": ["travel", "adventure", "explore"]
     },
     {
@@ -38,7 +38,7 @@
       "author": "Sarah Green",
       "cover": "https://nehaseosolutions.com/wp-content/uploads/2020/09/Website-Development.jpg",
       "post_data": "2023-09-25",
-      "reading_time": "7 mins",
+      "reading_time": 6,
       "hashtags": ["photography", "art", "creativity"]
     }
   ]
